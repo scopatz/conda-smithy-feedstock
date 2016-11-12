@@ -23,7 +23,7 @@ requirements:
   run:
     - python
     - conda-build-all
-    - conda
+    - conda >=4.2
     - conda-build >=1.21.12
     - jinja2
     - requests
